@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d1zzymon
 - 👀 I’m interested in ... program developing right now
 - 🌱 I’m currently learning ... html css and javascript
-- 💞️ I’m looking to collaborate on ... not now im still newcomer :)
+- 💞️ I’m looking to collaborate on ... still learning :)
 - 📫 How to reach me ... you can find me on instagram as @d1zzymon
 
 <!---
